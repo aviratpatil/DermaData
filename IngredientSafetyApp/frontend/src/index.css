@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #10B981;
+  --color-warning: #F59E0B;
+  --color-danger: #F43F5E;
+  --color-dark: #0F172A;
+}
+
+body {
+  /* Using standard utility classes now that they are defined in theme */
+  @apply bg-dark text-white font-sans antialiased;
+}
+
+.glass-card {
+  @apply bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl shadow-xl;
+}
+
+/* Custom scrollbar for modern look */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+
+  .glass-card {
+    background: white;
+    color: black;
+    border: 1px solid #ddd;
+    box-shadow: none;
+    backdrop-filter: none;
+  }
+
+  button,
+  header,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+
+  /* Ensure gauge is visible */
+  .text-white {
+    color: black !important;
+  }
+}
