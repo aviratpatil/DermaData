@@ -1905,5 +1905,2584 @@
         "regulation": "Safe",
         "description": "Strong surfactant. Cleaning agent. Can be very drying and irritating to skin.",
         "category": "Surfactant"
+    },
+    {
+        "id": "chem_061",
+        "names": [
+            "Behentrimonium Chloride"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 9
+        },
+        "regulation": "Restricted",
+        "description": "EU Limit: 3% in rinse-off hair products. Allergies: Can cause contact dermatitis and severe eye irritation if it exceeds safe levels.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_062",
+        "names": [
+            "DMDM Hydantoin"
+        ],
+        "scores": {
+            "carcinogenicity": 10,
+            "endocrine_disruption": 0,
+            "allergen_potential": 9,
+            "environmental_toxicity": 4
+        },
+        "regulation": "Restricted",
+        "description": "EU Limit: 0.6%. A formaldehyde releaser. Allergies: Common cause of 'cosmetic dermatitis,' redness, and itchy rashes due to formaldehyde sensitivity.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_063",
+        "names": [
+            "Zinc Pyrithione",
+            "Pyrithione Zinc"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 10,
+            "allergen_potential": 4,
+            "environmental_toxicity": 10
+        },
+        "regulation": "Banned in EU",
+        "description": "Banned in EU (2022). US/India Limit: 1% for shampoos. Allergies: May cause stinging or localized skin peeling in sensitive users.",
+        "category": "Antidandruff"
+    },
+    {
+        "id": "chem_064",
+        "names": [
+            "Phenoxyethanol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 2,
+            "allergen_potential": 5,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Global Limit: 1.0%. Allergies: Linked to eczema and life-threatening allergic reactions (anaphylaxis) in infants; can cause 'burning' sensation on broken skin.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_065",
+        "names": [
+            "Salicylic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 5,
+            "allergen_potential": 3,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Restricted",
+        "description": "EU Limit: 0.5% (preservative) or 2.0% (rinse-off). Allergies: Can cause 'aspirin-like' allergic reactions, hives, and extreme dryness.",
+        "category": "Exfoliant"
+    },
+    {
+        "id": "chem_066",
+        "names": [
+            "Methylisothiazolinone",
+            "MIT"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 10,
+            "environmental_toxicity": 8
+        },
+        "regulation": "Restricted",
+        "description": "EU Limit: 0.0015% (rinse-off only). Allergies: Named 'Allergen of the Year' due to high rates of severe blistering and painful skin swelling.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_067",
+        "names": [
+            "Sodium Laureth Sulfate",
+            "SLES"
+        ],
+        "scores": {
+            "carcinogenicity": 2,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Safe with limits",
+        "description": "Safe up to 50% in formulations. Allergies: Causes scalp itchiness and 'tight skin' feeling; potential 1,4-dioxane contamination risk.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_068",
+        "names": [
+            "BHT",
+            "Butylated Hydroxytoluene"
+        ],
+        "scores": {
+            "carcinogenicity": 3,
+            "endocrine_disruption": 9,
+            "allergen_potential": 4,
+            "environmental_toxicity": 7
+        },
+        "regulation": "Restricted",
+        "description": "Safe Limit: 0.8%. Allergies: Rare but can trigger chronic hives (urticaria) and eye irritation.",
+        "category": "Antioxidant"
+    },
+    {
+        "id": "chem_069",
+        "names": [
+            "Limonene"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 7,
+            "environmental_toxicity": 6
+        },
+        "regulation": "Must be Labeled",
+        "description": "Common fragrance. Must be listed if >0.01% in rinse-off. Allergies: Oxidizes on the shelf to become a potent sensitizer, causing redness and small bumps.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_070",
+        "names": [
+            "Cocamidopropyl Betaine"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Safe",
+        "description": "Usually used at 5-10%. Allergies: A leading cause of eyelid dermatitis and scalp rashes due to amidoamine impurities.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_071",
+        "names": [
+            "Cyclopentasiloxane",
+            "D5"
+        ],
+        "scores": {
+            "carcinogenicity": 2,
+            "endocrine_disruption": 7,
+            "allergen_potential": 1,
+            "environmental_toxicity": 10
+        },
+        "regulation": "Restricted",
+        "description": "EU Limit: 0.1% in rinse-off (2026). Allergies: Low skin allergy risk but highly hazardous to the environment and aquatic life.",
+        "category": "Silicone"
+    },
+    {
+        "id": "chem_072",
+        "names": [
+            "Benzyl Alcohol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Max Limit: 1.0%. Allergies: Can cause 'contact urticaria' (immediate swelling) and intense itching in sensitive individuals.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_073",
+        "names": [
+            "Sodium Hydroxide",
+            "Lye"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 8,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Restricted",
+        "description": "pH adjuster. Limit: Up to pH 11. Allergies: Not a typical allergen, but causes severe chemical burns and scalp irritation if the product pH is unbalanced.",
+        "category": "pH Balancer"
+    },
+    {
+        "id": "chem_074",
+        "names": [
+            "2-Bromo-2-Nitropropane-1,3-Diol",
+            "Bronopol"
+        ],
+        "scores": {
+            "carcinogenicity": 7,
+            "endocrine_disruption": 0,
+            "allergen_potential": 8,
+            "environmental_toxicity": 9
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 0.1%. Allergies: Releases small amounts of formaldehyde; known for causing weeping eczema and painful skin inflammation.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_075",
+        "names": [
+            "Fragrance",
+            "Parfum"
+        ],
+        "scores": {
+            "carcinogenicity": 2,
+            "endocrine_disruption": 5,
+            "allergen_potential": 9,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Restricted",
+        "description": "Limit: Varies by component. Allergies: The #1 cause of cosmetic allergies; can trigger asthma, migraines, and widespread dermatitis.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_076",
+        "names": [
+            "Methylparaben"
+        ],
+        "scores": {
+            "carcinogenicity": 2,
+            "endocrine_disruption": 4,
+            "allergen_potential": 3,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 0.4%. Allergies: Generally low, but can cause 'delayed' allergic reactions where the rash appears 12-24 hours after use.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_077",
+        "names": [
+            "Cetrimonium Chloride"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 7,
+            "environmental_toxicity": 8
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 2.5% in hair products. Allergies: High concentrations cause skin sensitisation and can lead to hair follicle inflammation.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_078",
+        "names": [
+            "Propylene Glycol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe with limits",
+        "description": "Safe up to 50%. Allergies: Common cause of 'hives' and can worsen existing skin conditions like Rosacea or Psoriasis.",
+        "category": "Humectant"
+    },
+    {
+        "id": "chem_079",
+        "names": [
+            "Guar Hydroxypropyltrimonium Chloride"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Safe",
+        "description": "Safe up to 1%. Allergies: Very rare, making it a safe alternative for people with sensitive scalps.",
+        "category": "Conditioner"
+    },
+    {
+        "id": "chem_080",
+        "names": [
+            "Cocamide MEA"
+        ],
+        "scores": {
+            "carcinogenicity": 5,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 10%. Allergies: Can contain trace nitrosamines (carcinogens); causes mild redness and scalp dryness.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_081",
+        "names": [
+            "Butylphenyl Methylpropional",
+            "Lilial"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 10,
+            "allergen_potential": 8,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Banned in EU",
+        "description": "Banned in EU (2022). Allergies: Potent allergen and endocrine disruptor linked to fertility issues; causes severe skin rashes.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_082",
+        "names": [
+            "Citric Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "pH adjuster. No strict limit. Allergies: Rarely causes true allergy, but leads to 'stinging' in eyes and on sensitive skin if the product is too acidic.",
+        "category": "pH Balancer"
+    },
+    {
+        "id": "chem_083",
+        "names": [
+            "Tetrasodium EDTA"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 9
+        },
+        "regulation": "Safe",
+        "description": "Safe up to 2%. Allergies: Very low, but it increases skin permeability, allowing other allergens to sink deeper into the skin.",
+        "category": "Chelating Agent"
+    },
+    {
+        "id": "chem_084",
+        "names": [
+            "Stearamidopropyl Dimethylamine"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 5,
+            "environmental_toxicity": 7
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 2-5%. Allergies: Can cause eye irritation and localized skin inflammation; toxic to aquatic life.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_085",
+        "names": [
+            "Alcohol Denat",
+            "Isopropyl Alcohol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "No specific limit. Allergies: Strips natural oils leading to 'Contact Irritant Dermatitis' rather than a true allergy; extremely drying.",
+        "category": "Solvent"
+    },
+    {
+        "id": "chem_086",
+        "names": [
+            "Hexyl Cinnamal"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 7,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Must be Labeled",
+        "description": "Label required >0.01%. Allergies: Common jasmine-scented allergen; leads to red, scaly patches behind the ears and on the neck.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_087",
+        "names": [
+            "Sodium chloride",
+            "Salt"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Thickener. No limit. Allergies: Not an allergen, but very high levels can cause 'osmotic stress' leading to a dry, itchy scalp.",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_088",
+        "names": [
+            "Glycol Distearate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Safe",
+        "description": "Pearlizing agent. No limit. Allergies: Extremely rare; one of the safest ingredients for sensitive skin in shampoos.",
+        "category": "Opacifier"
+    },
+    {
+        "id": "chem_089",
+        "names": [
+            "Polyquaternium-10"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 4
+        },
+        "regulation": "Safe",
+        "description": "Limit: 2%. Allergies: Very rare; provides a protective film on hair which can sometimes lead to minor scalp buildup.",
+        "category": "Conditioner"
+    },
+    {
+        "id": "chem_090",
+        "names": [
+            "Sorbitol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "No limit. Allergies: None known; a very safe sugar-based humectant for all skin types.",
+        "category": "Humectant"
+    },
+    {
+        "id": "chem_091",
+        "names": [
+            "Sodium Lauryl Sulfate",
+            "SLS"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 8,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Safe with limits",
+        "description": "Limit: 1-15%. Allergies: The primary cause of 'shampoo-induced' scalp irritation and can trigger mouth ulcers if in toothpaste.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_092",
+        "names": [
+            "Niacinamide",
+            "Vitamin B3"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Limit: Up to 10%. Allergies: Safe, but high concentrations can cause 'flushing' (temporary redness) due to blood vessel dilation.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "chem_093",
+        "names": [
+            "Glycolic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 5,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 4% (consumer) or 10% (professional). Allergies: Increases sun sensitivity significantly; can cause chemical burns if left on too long.",
+        "category": "Exfoliant"
+    },
+    {
+        "id": "chem_094",
+        "names": [
+            "Chlorhexidine Dihydrochloride"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 9,
+            "environmental_toxicity": 10
+        },
+        "regulation": "Restricted",
+        "description": "Limit: 0.3%. Allergies: High risk of severe allergic contact dermatitis and rare cases of life-threatening anaphylaxis.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_095",
+        "names": [
+            "Tea Tree Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 3,
+            "allergen_potential": 7,
+            "environmental_toxicity": 6
+        },
+        "regulation": "Safe",
+        "description": "Safe up to 1%. Allergies: Oxidized oil is a major sensitizer; causes redness, blistering, and peeling on the scalp.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_096",
+        "names": [
+            "Carbomer"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 4
+        },
+        "regulation": "Safe",
+        "description": "Thickener. Limit: 1-2%. Allergies: Extremely rare; one of the safest gelling agents available.",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_097",
+        "names": [
+            "Panthenol",
+            "B5"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Safe up to 5%. Allergies: None; highly soothing and often used to treat skin irritation caused by other chemicals.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "chem_098",
+        "names": [
+            "Sodium Xylenesulfonate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Safe",
+        "description": "Limit: 10%. Allergies: May cause minor skin and eye irritation but is not considered a potent sensitizer.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_099",
+        "names": [
+            "Amodimethicone"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 6
+        },
+        "regulation": "Safe",
+        "description": "Safe up to 5%. Allergies: Minimal; it stays on the hair shaft rather than the skin, reducing allergy risk.",
+        "category": "Silicone"
+    },
+    {
+        "id": "chem_100",
+        "names": [
+            "Tocopheryl Acetate",
+            "Vitamin E"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Limit: 5%. Allergies: Surprisingly, it is a common allergen in lip and scalp products, leading to itchy, red patches.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "chem_101",
+        "names": [
+            "Laureth-4"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Safe with limits",
+        "description": "Ethoxylated surfactant. May contain trace amounts of 1,4-dioxane, a potential carcinogen.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_102",
+        "names": [
+            "Sodium Lauroyl Sarcosinate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Mild biodegradable surfactant. Enhances foam and feel. Generally safe and non-irritating.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_103",
+        "names": [
+            "Glyceryl Oleate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Natural emulsifier and emollient. Mimics skin's natural oils. Very safe.",
+        "category": "Emollient"
+    },
+    {
+        "id": "chem_104",
+        "names": [
+            "Dicaprylyl Ether"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Lightweight emollient. Provides a dry, non-greasy feel. Safe alternative to silicones.",
+        "category": "Emollient"
+    },
+    {
+        "id": "chem_105",
+        "names": [
+            "Lauryl Alcohol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Fatty alcohol used as a thickener and emollient. Can be mildly irritating in high concentrations.",
+        "category": "Emollient"
+    },
+    {
+        "id": "chem_106",
+        "names": [
+            "Formic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Preservative and pH adjuster. Max 0.5% in acid products. Can be irritating and sensitizing.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_107",
+        "names": [
+            "Mel",
+            "Honey"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Natural honey. Excellent humectant and antibacterial. Safe for all skin types.",
+        "category": "Humectant"
+    },
+    {
+        "id": "chem_108",
+        "names": [
+            "Sine Adipe Lac",
+            "Skimmed Milk"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Skimmed milk powder. Proteins condition skin and hair. Safe, unless allergic to dairy.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_109",
+        "names": [
+            "Sodium Citrate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "pH buffer and antioxidant aid. Completely safe.",
+        "category": "pH Balancer"
+    },
+    {
+        "id": "chem_110",
+        "names": [
+            "Tocopherol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Pure Vitamin E. Potent antioxidant. Prevents oil oxidation. Safe.",
+        "category": "Antioxidant"
+    },
+    {
+        "id": "chem_111",
+        "names": [
+            "Hydrogenated Palm Glycerides Citrate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Emulsifier derived from palm oil. Skin conditioning agent. Safe.",
+        "category": "Emulsifier"
+    },
+    {
+        "id": "chem_112",
+        "names": [
+            "Lecithin"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Natural phospholipid from soy or egg. Restores skin barrier. Safe.",
+        "category": "Emollient"
+    },
+    {
+        "id": "chem_113",
+        "names": [
+            "CI 47005",
+            "Yellow 10",
+            "Quinoline Yellow"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 0,
+            "allergen_potential": 5,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Synthetic yellow dye. Banned in foods in some countries (US, Japan) but allowed in cosmetics. Potential allergen.",
+        "category": "Colorant"
+    },
+    {
+        "id": "chem_114",
+        "names": [
+            "CI 14700",
+            "Red 4",
+            "FD&C Red 4"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Synthetic red dye. FDA restricted use to externally applied drugs and cosmetics (no eye area).",
+        "category": "Colorant"
+    },
+    {
+        "id": "chem_115",
+        "names": [
+            "Cyclopentasiloxane",
+            "Cyclopentasiloxa ne"
+        ],
+        "scores": {
+            "carcinogenicity": 2,
+            "endocrine_disruption": 7,
+            "allergen_potential": 1,
+            "environmental_toxicity": 10
+        },
+        "regulation": "Restricted",
+        "description": "Silicone. Restricted in rinse-off products in EU due to environmental toxicity. Safe for human skin but bad for aquatic life.",
+        "category": "Silicone"
+    },
+    {
+        "id": "chem_116",
+        "names": [
+            "Panthenol",
+            "Panthe nol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Pro-Vitamin B5. Soothes scalp and strengthens hair. Very safe.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "bot_new_01",
+        "names": [
+            "Cornus Officinalis Fruit Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Dogwood fruit extract. Antioxidant and skin conditioner.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_02",
+        "names": [
+            "Rehmannia Glutinosa Root Extract",
+            "Rehmannia Glu tinosa Root Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Chinese Foxglove root. Traditional herbal extract for hair conditioning.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_03",
+        "names": [
+            "Dioscorea Japonica Root Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Wild Yam extract. Skin conditioning agent.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_04",
+        "names": [
+            "Alisma Orientale Tuber Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Water Plantain tuber extract. Used in traditional medicine; conditions skin.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_05",
+        "names": [
+            "Paeonia Suffruticosa Root Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Peony root extract. Anti-inflammatory and antioxidant.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_06",
+        "names": [
+            "Poria Cocos Sclerotium Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Mushroom extract. Soothing and antioxidant properties.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_117",
+        "names": [
+            "Ceramide NP",
+            "Ceramide 3"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Skin-identical lipid. Restores protective barrier and locks in moisture. Excellent for damaged hair.",
+        "category": "Skin-Identical"
+    },
+    {
+        "id": "prot_new_01",
+        "names": [
+            "Hydrolyzed Silk"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Silk protein. Adds shine and smooths hair cuticle.",
+        "category": "Protein"
+    },
+    {
+        "id": "prot_new_02",
+        "names": [
+            "Hydrolyzed Collagen",
+            "Hyd rolyzed Collagen"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Animal-derived protein. Increases hair elasticity and moisture.",
+        "category": "Protein"
+    },
+    {
+        "id": "prot_new_03",
+        "names": [
+            "Hydrolyzed Keratin",
+            "Hydrolyzed Kera tin"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Hair's natural protein. Repairs damage and strengthens hair structure.",
+        "category": "Protein"
+    },
+    {
+        "id": "prot_new_04",
+        "names": [
+            "Gelatin"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Protein thickener. Forms a film on hair causing shine.",
+        "category": "Protein"
+    },
+    {
+        "id": "bot_new_07",
+        "names": [
+            "Avena Sativa Kernel Extract",
+            "Avena Sativa (Oat) Kernel Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Oat extract. Soothes itchy scalps and reduces inflammation.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_118",
+        "names": [
+            "1,2-Hexanediol",
+            "2-Hexanediol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Solvent and preservative booster. Generally non-irritating.",
+        "category": "Solvent"
+    },
+    {
+        "id": "prot_new_05",
+        "names": [
+            "Hydrolyzed Wheat Protein"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe (Gluten)",
+        "description": "Plant protein. Penetrates hair shaft to strengthen. Caution for gluten allergy.",
+        "category": "Protein"
+    },
+    {
+        "id": "prot_new_06",
+        "names": [
+            "Hydrolyzed Corn Protein"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Plant protein. Conditions and antistatic.",
+        "category": "Protein"
+    },
+    {
+        "id": "prot_new_07",
+        "names": [
+            "Hydrolyzed Soy Protein"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Soy protein. Improves hair texture and manageability.",
+        "category": "Protein"
+    },
+    {
+        "id": "chem_119",
+        "names": [
+            "Phenoxyethanol",
+            "Phe noxyethanol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 2,
+            "allergen_potential": 4,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Preservative. Limit 1%. Can cause irritation.",
+        "category": "Preservative"
+    },
+    {
+        "id": "bot_new_08",
+        "names": [
+            "Daucus Carota Sativa Root Extract",
+            "Daucus Carota Sativa (Carrot) Root Ext ract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Carrot extract. Rich in beta-carotene and vitamins.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_09",
+        "names": [
+            "Brassica Oleracea Italica Extract",
+            "Brassica Oleracea Italica (Broccoli) Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Broccoli extract. Antioxidant-rich skin conditioner.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_10",
+        "names": [
+            "Apium Graveolens Extract",
+            "Api um Graveolens (Celery) Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Celery extract. Can be phototoxic (furocoumarins) in large amounts but safe in small concentrations.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_11",
+        "names": [
+            "Brassica Oleracea Capitata Leaf Extract",
+            "Brassica Oleracea Ca pitata (Cabbage) Leaf Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Cabbage leaf extract. Anti-inflammatory properties.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_12",
+        "names": [
+            "Oryza Sativa Extract",
+            "Oryza Sativa (Rice) Ex tract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rice extract. Conditions hair and skin.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_13",
+        "names": [
+            "Brassica Rapa Leaf Extract",
+            "Brassica Rapa (Turnip) Leaf Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Turnip leaf extract. Vitamin-rich conditioner.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_14",
+        "names": [
+            "Solanum Lycopersicum Fruit/Leaf/Stem Extract",
+            "Solanum Lycopersicum (Tomato) Fruit/Leaf/ Stem Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Tomato extract. Antioxidant (Uycopene).",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_120",
+        "names": [
+            "Alcohol",
+            "Ethanol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Simple alcohol. Antimicrobial and solvent. Can be drying and irritating to the skin barrier in high concentrations.",
+        "category": "Solvent"
+    },
+    {
+        "id": "bot_ayur_01",
+        "names": [
+            "Curry (Murraya koenigii) Lf. powder",
+            "Murraya Koenigii Leaf Extract",
+            "Curry Leaf"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Curry leaf powder. Rich in antioxidants and beta-carotene. Promotes hair health and prevents graying.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_02",
+        "names": [
+            "em (Azadirachta indica) Lf. Powder",
+            "Neem (Azadirachta indica) Lf. Powder",
+            "Azadirachta Indica",
+            "Neem"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Neem leaf powder. Powerful antibacterial and antifungal. Treats dandruff and scalp infections.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_03",
+        "names": [
+            "Mandookparni (Centella asiatica) Ap. Powder",
+            "Centella Asiatica",
+            "Gotu Kola"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Centella Asiatica (Gotu Kola). Soothes scalp inflammation and stimulates hair growth.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_04",
+        "names": [
+            "Ratanjot (Geranium wallichianum) Rt. Powder",
+            "Ratanjot",
+            "Alkanet Root"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Ratanjot root powder. Natural colorant and conditioner. Promotes hair growth.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_05",
+        "names": [
+            "Charila (Parmelia perlata) Wp. Powder",
+            "Parmelia Perlata",
+            "Stone Flower"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Charila (Stone Flower). Traditional Ayurvedic ingredient used for skin and hair health.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_06",
+        "names": [
+            "Jatamansi (Nardostachys jatamansi) Rz. Powder",
+            "Nardostachys Jatamansi",
+            "Spikenard"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Jatamansi rhizome powder. Calming herb that promotes hair growth and darkens hair.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_07",
+        "names": [
+            "Vat jata (Ficus benghalensis) Ar. Powder",
+            "Ficus Benghalensis",
+            "Banyan Tree"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Banyan tree aerial root powder. Traditional remedy for hair fall and scalp issues.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_08",
+        "names": [
+            "Til (Sesamum indicum) Sd. Oil",
+            "Sesamum Indicum Seed Oil",
+            "Sesame Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Sesame seed oil. Nourishing oil rich in fatty acids and antioxidants.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "bot_ayur_09",
+        "names": [
+            "Coconut (Cocos nucifera) Fr. Endocarp Oil",
+            "Cocos Nucifera Oil",
+            "Coconut Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Coconut fruit oil. Deeply penetrating moisturizer. Prevents protein loss in hair.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "bot_ayur_10",
+        "names": [
+            "Coconut (Cocos nucifera) Fr. Endocarp Milk",
+            "Cocos Nucifera Fruit Extract",
+            "Coconut Milk"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Coconut milk. Rich in proteins and fats for conditioning.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_ayur_11",
+        "names": [
+            "Castor (Ricinus communis) Sd. Oil",
+            "Ricinus Communis Seed Oil",
+            "Castor Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Castor seed oil. Thick, viscous oil rich in ricinoleic acid. Promotes hair thickness.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "bot_ayur_12",
+        "names": [
+            "Rose hip (Rosa moschata) Fr. Oil",
+            "Rosa Moschata Seed Oil",
+            "Rosehip Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rosehip fruit oil. High in Vitamin A and C. Regenerates skin and scalp health.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "bot_ayur_13",
+        "names": [
+            "Devdaru (Cedrus deodara) St. Oil",
+            "Cedrus Deodara Wood Oil",
+            "Himalayan Cedar Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Devdaru (Cedar) stem oil. Antiseptic and anti-inflammatory. Good for dandruff.",
+        "category": "Essential Oil"
+    },
+    {
+        "id": "bot_ayur_14",
+        "names": [
+            "Tea tree (Melaleuca leucadendron) Lf. Oil",
+            "Melaleuca Leucadendron",
+            "Cajeput Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Melaleuca Leucadendron (Tea Tree/Cajeput) leaf oil. Strong antimicrobial. Can be irritating to sensitive skin.",
+        "category": "Essential Oil"
+    },
+    {
+        "id": "chem_121",
+        "names": [
+            "Sodium Stearate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Sodium salt of stearic acid. Common soap thickener and hardener. Generally safe, but high pH in soaps can dry skin.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_122",
+        "names": [
+            "Sodium Palm Kernelate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Safe",
+        "description": "Sodium salt of palm kernel oil. Cleansing agent in soaps. Safe for skin, but sustainability (palm oil) is a concern.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_123",
+        "names": [
+            "Peg -4",
+            "PEG-4"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe with limits",
+        "description": "Polyethylene Glycol humectant. May be contaminated with 1,4-dioxane. Do not use on broken skin.",
+        "category": "Humectant"
+    },
+    {
+        "id": "chem_124",
+        "names": [
+            "Perfume"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 5,
+            "allergen_potential": 9,
+            "environmental_toxicity": 4
+        },
+        "regulation": "Restricted",
+        "description": "Fragrance mix. #1 allergen in skincare. Can trigger dermatitis and headaches.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_125",
+        "names": [
+            "Sodium Meta Bisulfite",
+            "Sodium Metabisulfite"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Restricted",
+        "description": "Preservative and antioxidant. Can cause severe allergic reactions in asthmatics (sulfite allergy).",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_126",
+        "names": [
+            "Tetra Sodium Edta",
+            "Tetrasodium EDTA"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Safe",
+        "description": "Chelating agent. Safe, but increases skin permeability to other potentially harmful ingredients.",
+        "category": "Chelating Agent"
+    },
+    {
+        "id": "chem_127",
+        "names": [
+            "CI 12490",
+            "Pigment Red 5"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Synthetic red pigment. Allowed in rinse-off products. Generally low risk.",
+        "category": "Colorant"
+    },
+    {
+        "id": "chem_128",
+        "names": [
+            "Benzyl Benzoate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 8
+        },
+        "regulation": "Restricted",
+        "description": "Fragrance ingredient and preservative. Known skin irritant and toxic to aquatic life. EU 26 Alergen.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_129",
+        "names": [
+            "Benzyl Salicylate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 5,
+            "allergen_potential": 7,
+            "environmental_toxicity": 6
+        },
+        "regulation": "Restricted",
+        "description": "Fragrance and UV absorber. Suspected endocrine disruptor. Strong sensitizer. EU 26 Allergen.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_130",
+        "names": [
+            "Cinnamal",
+            "Cinnamaldehyde"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 9,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Cinnamon scent. One of the most potent contact allergens in cosmetics. Causes rashes easily.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_131",
+        "names": [
+            "Eugenol"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 1,
+            "allergen_potential": 8,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Clove scent. Potent allergen. Can cause contact dermatitis and stomatitis.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_132",
+        "names": [
+            "PPG-12"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Emollient and surfactant. Generally safe conditioning agent for hair.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_133",
+        "names": [
+            "Sodium Acetate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Buffering agent and preservative. Generally safe and non-irritating.",
+        "category": "pH Balancer"
+    },
+    {
+        "id": "chem_134",
+        "names": [
+            "Magnesium Chloride"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Thickener and texturizer. Natural mineral salt. Very safe.",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_135",
+        "names": [
+            "Magnesium Nitrate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Preservative stabilizer. Often found with Methylchloroisothiazolinone. Can be irritating to skin.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_136",
+        "names": [
+            "Disodium EDTA"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Safe",
+        "description": "Chelating agent. Increases stability of products. Enhances absorption of other ingredients.",
+        "category": "Chelating Agent"
+    },
+    {
+        "id": "chem_137",
+        "names": [
+            "Citronellol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 7,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Restricted",
+        "description": "Rose/citrus scent. Common allergen. Must be declared on labels in EU.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_138",
+        "names": [
+            "Geraniol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 7,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Restricted",
+        "description": "Rose-like scent. Common sensitizer. Can cause dermatitis in sensitive individuals.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_139",
+        "names": [
+            "Rhamnolipids"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Biosurfactant. Eco-friendly cleansing agent. Generally mild.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_140",
+        "names": [
+            "Paraben"
+        ],
+        "scores": {
+            "carcinogenicity": 2,
+            "endocrine_disruption": 5,
+            "allergen_potential": 3,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Restricted",
+        "description": "Class of preservatives. Some are potential endocrine disruptors. Often avoided in 'clean' beauty.",
+        "category": "Preservative"
+    },
+    {
+        "id": "chem_141",
+        "names": [
+            "Egg White",
+            "Albumen"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Egg white protein. Tightens skin and controls oil.",
+        "category": "Protein"
+    },
+    {
+        "id": "chem_142",
+        "names": [
+            "Carrageenan",
+            "Chondrus Crispus"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Seaweed/Algae extract. Thickener. Can be comodogenic (pore-clogging) for some.",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_143",
+        "names": [
+            "Benzoic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Preservative. Found naturally in berries. Can irritate sensitive eyes/skin.",
+        "category": "Preservative"
+    },
+    {
+        "id": "bot_new_15",
+        "names": [
+            "Bearberry",
+            "Arctostaphylos Uva Ursi Leaf Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Natural skin lightener (contains Arbutin). Brightens complexion.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_144",
+        "names": [
+            "Alginic Acid",
+            "Algin"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Derived from brown algae. Thickener and water binder.",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_145",
+        "names": [
+            "Saponins"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Natural cleansing agents found in plants. Gentle alternative to sulfates.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "min_new_01",
+        "names": [
+            "Dead Sea Minerals",
+            "Maris Sal",
+            "Sea Salt"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Mineral-rich salt. Exfoliates and improves skin barrier function.",
+        "category": "Mineral"
+    },
+    {
+        "id": "min_new_02",
+        "names": [
+            "Calcium",
+            "Calcium Carbonate",
+            "Calcium PCA"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Essential mineral. Restores skin barrier and regulates cell turnover.",
+        "category": "Mineral"
+    },
+    {
+        "id": "bot_oil_new_01",
+        "names": [
+            "Avocado Oil",
+            "Persea Gratissima Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rich in fatty acids and Vitamins A, D, E. Deeply moisturizing.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "bot_oil_new_02",
+        "names": [
+            "Argan Oil",
+            "Argania Spinosa Kernel Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Liquid Gold. High in Vitamin E. Moisturizes and softens hair/skin.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "vit_new_01",
+        "names": [
+            "Vitamin C",
+            "Ascorbic Acid",
+            "L-Ascorbic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Potent antioxidant. Brightens skin and boosts collagen. High concentrations may sting.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "act_new_01",
+        "names": [
+            "Caffeine",
+            "Caffeine Complex"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Vasoconstrictor. Reduces puffiness and stimulates hair roots.",
+        "category": "Active"
+    },
+    {
+        "id": "vit_new_02",
+        "names": [
+            "Retinol",
+            "Vitamin A"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 1,
+            "allergen_potential": 4,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Restricted",
+        "description": "Gold standard anti-aging. Increases cell turnover. Can cause redness, peeling, and sun sensitivity.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "bot_new_16",
+        "names": [
+            "French Vine",
+            "Vitis Vinifera Vine Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Vine extract. Powerful antioxidant (Resveratrol). Anti-aging.",
+        "category": "Botanical"
+    },
+    {
+        "id": "act_new_02",
+        "names": [
+            "Pro-xylane",
+            "Hydroxypropyl Tetrahydropyrantriol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Patented anti-aging molecule. Boosts skin hydration and firmness.",
+        "category": "Active"
+    },
+    {
+        "id": "prot_new_08",
+        "names": [
+            "Collagen Peptide Fractions",
+            "Peptides"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Broken down collagen. Easier absorption. Signals skin to repair itself.",
+        "category": "Protein"
+    },
+    {
+        "id": "min_new_03",
+        "names": [
+            "Magnesium",
+            "Magnesium Sulfate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Essential mineral. Soothes inflammation and improves barrier repair.",
+        "category": "Mineral"
+    },
+    {
+        "id": "act_new_03",
+        "names": [
+            "Charcoal",
+            "Carbon",
+            "Activated Charcoal"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Absorbent. Draws out impurities and oil from pores. deeply cleansing.",
+        "category": "Active"
+    },
+    {
+        "id": "bot_new_17",
+        "names": [
+            "Jasmine",
+            "Jasminum Officinale Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Soothing and moisturizing. Fragrance can be sensitizing to some.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_18",
+        "names": [
+            "Blue Algae",
+            "Spirulina"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rich in vitamins and minerals. Brightens and revitalizes skin.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_19",
+        "names": [
+            "Yuzu",
+            "Citrus Junos Fruit Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Citrus extract. High Vitamin C. Brightening but potential photo-sensitizer.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_oil_new_03",
+        "names": [
+            "Cocoa Butter",
+            "Theobroma Cacao Seed Butter"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rich emollient fat. Deeply hydrating but highly comedogenic (pore-clogging).",
+        "category": "Emollient"
+    },
+    {
+        "id": "act_new_04",
+        "names": [
+            "Soy-Ceramide",
+            "Glycine Soja Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Plant-derived ceramide. Restores barrier and hydration.",
+        "category": "Skin-Identical"
+    },
+    {
+        "id": "bot_oil_new_04",
+        "names": [
+            "Cedarwood Essential Oil",
+            "Cedrus Atlantica Bark Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Astringent and antiseptic. Good for oily skin/scalp.",
+        "category": "Essential Oil"
+    },
+    {
+        "id": "bot_new_20",
+        "names": [
+            "Peppermint Extract",
+            "Mentha Piperita"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Cooling and stimulating. Can irritate sensitive skin (Menthol).",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_21",
+        "names": [
+            "Coffee",
+            "Coffea Arabica Seed Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Antioxidant. Stimulates microcirculation.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_22",
+        "names": [
+            "Rose",
+            "Rosa Damascena Flower Water"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Soothing and hydrating. Mild astringent. Fragrance can be sensitizing.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_23",
+        "names": [
+            "Red Algae",
+            "Red Algae Oils"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rich in polysaccharides. Hydrating and film-forming.",
+        "category": "Botanical"
+    },
+    {
+        "id": "min_new_04",
+        "names": [
+            "Clay",
+            "Kaolin",
+            "Bentonite"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Oil-absorbing mineral. Cleanses pores. Can be drying.",
+        "category": "Mineral"
+    },
+    {
+        "id": "bot_new_24",
+        "names": [
+            "Black Tea",
+            "Camellia Sinensis Leaf Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rich in tannins and antioxidants. Firming and soothing.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_oil_new_05",
+        "names": [
+            "Eucalyptus",
+            "Eucalyptus Globulus Leaf Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 5,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Antiseptic and refreshing. Potent sensitizer if oxidized or used in high amounts.",
+        "category": "Essential Oil"
+    },
+    {
+        "id": "bot_new_25",
+        "names": [
+            "Birch Sap",
+            "Betula Alba Juice"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Nutrient-rich sap. Hydrating and soothing.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_26",
+        "names": [
+            "Kiwi",
+            "Actinidia Chinensis Fruit Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "High Vitamin C and E. Brightening and exfoliating (enzymatic).",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_oil_new_06",
+        "names": [
+            "Grapeseed Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Lightweight oil. High in linoleic acid. Good for acne-prone skin.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "vit_new_03",
+        "names": [
+            "Pro-Retinol",
+            "Retinyl Palmitate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Restricted",
+        "description": "Milder form of Retinol. Convertible to active Vitamin A in skin. Anti-aging.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "act_new_05",
+        "names": [
+            "Adenosine"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Cell-communicating ingredient. Antibacterial and anti-inflammatory. Anti-aging.",
+        "category": "Active"
+    },
+    {
+        "id": "bot_oil_new_07",
+        "names": [
+            "Lavender Essential Oil",
+            "Lavandula Angustifolia Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 6,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Safe",
+        "description": "Calming. Fragrance allergen (Linalool). Cytotoxic to skin cells in high concentrations.",
+        "category": "Essential Oil"
+    },
+    {
+        "id": "prot_new_09",
+        "names": [
+            "Retino Peptides",
+            "Dipeptide"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Peptide complex. Stimulates collagen and improves skin texture.",
+        "category": "Protein"
+    },
+    {
+        "id": "prot_new_10",
+        "names": [
+            "Keratin",
+            "Keratin Protein"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Structural protein. Strengthens hair and nails.",
+        "category": "Protein"
+    },
+    {
+        "id": "bot_oil_new_08",
+        "names": [
+            "Jojoba Oil",
+            "Simmondsia Chinensis Seed Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Liquid wax similar to skin sebum. Balances oil production. Stable and safe.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "act_new_06",
+        "names": [
+            "Fibroxl",
+            "Fibroxyl"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Plant-derived anti-aging complex. volumizing.",
+        "category": "Active"
+    },
+    {
+        "id": "bot_new_27",
+        "names": [
+            "Red Ginseng",
+            "Panax Ginseng Root Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Energizing antioxidant. Improves circulation and skin tone.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_28",
+        "names": [
+            "Peony Polyphenols",
+            "Peony Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Antioxidant flower extract. Brightening and soothing.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_146",
+        "names": [
+            "HEPES",
+            "Hydroxyethylpiperazine Ethane Sulfonic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Synthetic buffering agent. Promotes enzymatic exfoliation. Can be sensitizing.",
+        "category": "Exfoliant"
+    },
+    {
+        "id": "act_new_07",
+        "names": [
+            "Natecium DHC"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Antioxidant complex derived from Bitter Orange. Protecs against UV damage.",
+        "category": "Active"
+    },
+    {
+        "id": "act_new_08",
+        "names": [
+            "Micro HA",
+            "Hydrolyzed Hyaluronic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Low molecular weight Hyaluronic Acid. Penetrates deeper for hydration.",
+        "category": "Humectant"
+    },
+    {
+        "id": "act_new_09",
+        "names": [
+            "Ceramide 5"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Specific ceramide type. Reinforces skin barrier structure.",
+        "category": "Skin-Identical"
+    },
+    {
+        "id": "vit_new_04",
+        "names": [
+            "Vitamin CG",
+            "Ascorbyl Glucoside"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Stabilized Vitamin C derivative. Brightening and antioxidant. Gentler than pure Vitamin C.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "chem_147",
+        "names": [
+            "Amino-Sulfonic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Gentle exfoliant. Activates enzymes in the skin.",
+        "category": "Exfoliant"
     }
 ]
