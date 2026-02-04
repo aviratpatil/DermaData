@@ -4484,5 +4484,840 @@
         "regulation": "Safe",
         "description": "Gentle exfoliant. Activates enzymes in the skin.",
         "category": "Exfoliant"
+    },
+    {
+        "id": "chem_148",
+        "names": [
+            "Ammonium Laureth Sulfate",
+            "ALS"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 4,
+            "environmental_toxicity": 5
+        },
+        "regulation": "Safe with limits",
+        "description": "Strong surfactant. Cleanses well but can be harsh and drying compared to Sodium Laureth Sulfate.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "bot_oil_new_09",
+        "names": [
+            "Elaeis Guineensis Oil/Palm Oil",
+            "Palm Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 3
+        },
+        "regulation": "Safe",
+        "description": "Rich biological oil. High in antioxidants. Safe for skin, but environmental concerns (deforestation).",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "chem_149",
+        "names": [
+            "Octyldodecanol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Fatty alcohol. Emollient and solvent. Conditioning agent.",
+        "category": "Emollient"
+    },
+    {
+        "id": "act_new_10",
+        "names": [
+            "Sodium PCA"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Natural humectant found in skin. Binds water to cells. Very safe.",
+        "category": "Humectant"
+    },
+    {
+        "id": "chem_150",
+        "names": [
+            "Sodium Cocoyl Amino Acids"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Mild surfactant derived from coconut fatty acids and amino acids.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_151",
+        "names": [
+            "Sodium Sarcosinate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Cleansing agent. Enhances foam. Generally sufficient safety profile.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "prot_new_11",
+        "names": [
+            "Arginine"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Amino acid. Essential for hair growth and scalp health. Increases circulation.",
+        "category": "Active"
+    },
+    {
+        "id": "prot_new_12",
+        "names": [
+            "Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol",
+            "Keravis"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Hair strengthening complex. Penetrates shaft to increase moisture and elasticity.",
+        "category": "Protein"
+    },
+    {
+        "id": "chem_152",
+        "names": [
+            "Coco-Betaine",
+            "Cocamidopropyl Betaine"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Surfactant from coconut oil. Mild but potential allergen (impurities).",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_153",
+        "names": [
+            "Fumaric Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "pH adjuster. Helps maintain acid mantle of scalp.",
+        "category": "pH Balancer"
+    },
+    {
+        "id": "chem_154",
+        "names": [
+            "PPG-5-Ceteth-20"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Safe",
+        "description": "Emulsifier and surfactant. Helps mix oils and water.",
+        "category": "Emulsifier"
+    },
+    {
+        "id": "vit_new_05",
+        "names": [
+            "Pyridoxine HCl",
+            "Vitamin B6"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Vitamin B6. Regulates oil production. Good for oily scalp/skin.",
+        "category": "Vitamin"
+    },
+    {
+        "id": "chem_155",
+        "names": [
+            "Decyl Glucoside"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Very mild plant-derived surfactant. Ideal for sensitive skin.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "min_new_05",
+        "names": [
+            "Copper PCA"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Copper peptide. Promotes wound healing and collagen production.",
+        "category": "Active"
+    },
+    {
+        "id": "chem_156",
+        "names": [
+            "Hexylene Glycol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Solvent and viscosity agent. Can be irritating to eyes.",
+        "category": "Solvent"
+    },
+    {
+        "id": "chem_157",
+        "names": [
+            "PEG-150 Pentaerythrityl Tetrastearate"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe with limits",
+        "description": "thickener. PEG derivative (contamination risk).",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_158",
+        "names": [
+            "PEG-6 Caprylic/Capric Glycerides"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Emulsifier and emollient. Leaves skin soft.",
+        "category": "Emollient"
+    },
+    {
+        "id": "chem_159",
+        "names": [
+            "Pentasodium Ethylenediamine Tetramethylene Phosphonate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Safe",
+        "description": "Chelating agent. Stabilizes formula.",
+        "category": "Chelating Agent"
+    },
+    {
+        "id": "chem_160",
+        "names": [
+            "Polyquaternium-47"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Conditioning polymer. Anti-static and film-forming.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "bot_new_29",
+        "names": [
+            "Vaccinium Myrtillus Fruit Extract",
+            "Bilberry Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Bilberry extract. Potent antioxidant (Anthocyanins). Soothing.",
+        "category": "Botanical"
+    },
+    {
+        "id": "min_new_06",
+        "names": [
+            "Zinc Gluconate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Zinc form. Sebum regulating and anti-acne.",
+        "category": "Mineral"
+    },
+    {
+        "id": "bot_new_30",
+        "names": [
+            "Beeswax",
+            "Cera Alba"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Natural wax. Protective barrier. Can be heavy/comedogenic.",
+        "category": "Emollient"
+    },
+    {
+        "id": "chem_161",
+        "names": [
+            "Micelles",
+            "Micellar Water"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Surfactant structures. Trap dirt and oil gently.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_162",
+        "names": [
+            "PHA",
+            "Polyhydroxy Acids",
+            "Gluconolactone",
+            "Lactobionic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Gentle chemical exfoliants. Hydrating. Good for sensitive skin.",
+        "category": "Exfoliant"
+    },
+    {
+        "id": "act_new_11",
+        "names": [
+            "Probiotics",
+            "Lactobacillus"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Beneficial bacteria derivatives. Support skin microbiome.",
+        "category": "Active"
+    },
+    {
+        "id": "bot_new_31",
+        "names": [
+            "Hippophae Rhamnoides Extract",
+            "Sea Buckthorn"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Sea Buckthorn. High in Omegas (3, 6, 9, 7) and Vitamins. Healing.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_32",
+        "names": [
+            "Echinacea Purpurea Extract",
+            "Coneflower"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Immune-boosting herb. Soothing and anti-inflammatory.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_33",
+        "names": [
+            "Arctium Lappa Root Extract",
+            "Burdock Root"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Detoxifying herb. Anti-fungal and sebum regulating.",
+        "category": "Botanical"
+    },
+    {
+        "id": "bot_new_34",
+        "names": [
+            "Salvia Officinalis Leaf Extract",
+            "Sage"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Sage extract. Antibacterial and astringent. Darkens gray hair naturally.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_163",
+        "names": [
+            "Babassuamidopropyl Betaine"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Mild surfactant from Babassu oil. Antistatic.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_164",
+        "names": [
+            "Sodium Cocoyl Isethionate",
+            "SCI"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Baby foam. Very mild surfactant. Leaves skin soft.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_165",
+        "names": [
+            "Sodium Methyl Cocoyl Taurate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Mild sulphate-free surfactant. Excellent foam.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_166",
+        "names": [
+            "Disodium Laureth Sulfosuccinate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Large molecule surfactant. Cannot penetrate skin, so very low irritation.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "bot_new_35",
+        "names": [
+            "Narcissus Tazetta Bulb Extract"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Dormin. Slows down cell proliferation (hair growth inhibitor) or protects skin cells.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_167",
+        "names": [
+            "Citral"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 8,
+            "environmental_toxicity": 2
+        },
+        "regulation": "Restricted",
+        "description": "Lemon scent component. Strong allergen. EU 26 Allergen.",
+        "category": "Fragrance"
+    },
+    {
+        "id": "chem_168",
+        "names": [
+            "Polysorbate 20"
+        ],
+        "scores": {
+            "carcinogenicity": 1,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe with limits",
+        "description": "Emulsifier. Solubilizes oils in water. PEG-derivative.",
+        "category": "Emulsifier"
+    },
+    {
+        "id": "chem_169",
+        "names": [
+            "Isostearamidopropyl Morpholine Lactate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Antistatic and conditioning agent.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_170",
+        "names": [
+            "Caprylyl Glycol"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Humectant and preservative booster. Gentle antimicrobial.",
+        "category": "Humectant"
+    },
+    {
+        "id": "chem_171",
+        "names": [
+            "PPG-3 Caprylyl Ether"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Emollient. Silicone alternative. Adds shine.",
+        "category": "Emollient"
+    },
+    {
+        "id": "act_new_12",
+        "names": [
+            "Saccharomyces/Iron Ferment",
+            "Saccharomyces/Copper Ferment",
+            "Saccharomyces/Silicon Ferment",
+            "Saccharomyces/Zinc Ferment"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Bio-fermented mineral complex. Enhances mineral absorption and efficacy.",
+        "category": "Active"
+    },
+    {
+        "id": "prot_new_13",
+        "names": [
+            "Triticum Vulgare Germ Protein",
+            "Wheat Germ"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 3,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe (Gluten)",
+        "description": "Wheat germ protein. Nutritious and conditioning. Caution for gluten allergy.",
+        "category": "Protein"
+    },
+    {
+        "id": "chem_172",
+        "names": [
+            "Isopropyl Myristate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Synthetic oil. Good emollient but highly comedogenic (clogs pores).",
+        "category": "Emollient"
+    },
+    {
+        "id": "bot_new_36",
+        "names": [
+            "Avena Sativa Flour",
+            "Oat Flour"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Colloidal Oatmeal. Soothes eczema and irritation.",
+        "category": "Botanical"
+    },
+    {
+        "id": "chem_173",
+        "names": [
+            "Potassium Cetyl Phosphate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Surfactant and emulsifier. Stabilizes emulsions.",
+        "category": "Emulsifier"
+    },
+    {
+        "id": "chem_174",
+        "names": [
+            "P-Anisic Acid",
+            "Anisic Acid"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Flavoring agent and preservative. Masking agent.",
+        "category": "Preservative"
+    },
+    {
+        "id": "bot_oil_new_10",
+        "names": [
+            "Sunflower Seed Oil",
+            "Helianthus Annuus Seed Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Light, non-comedogenic oil. High in linoleic acid. Repairs barrier.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "chem_175",
+        "names": [
+            "Lanolin"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 5,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Sheep wool wax. Excellent occlusive moisturizer. Common allergen.",
+        "category": "Emollient"
+    },
+    {
+        "id": "bot_oil_new_11",
+        "names": [
+            "Canola Oil"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Rapeseed oil. Rich in lipids. Moisturizing.",
+        "category": "Botanical Oil"
+    },
+    {
+        "id": "chem_176",
+        "names": [
+            "Glycol Stearate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Opacifying agent. Gives products a pearlescent look.",
+        "category": "Thickener"
+    },
+    {
+        "id": "chem_177",
+        "names": [
+            "Disodium Phosphate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 0,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Buffering agent against pH changes. Corrosion inhibitor.",
+        "category": "pH Balancer"
+    },
+    {
+        "id": "chem_178",
+        "names": [
+            "Ricinoleamidopropyl Ethyldimonium Ethosulfate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Anti-static and hair conditioner derived from Castor Oil.",
+        "category": "Conditioning Agent"
+    },
+    {
+        "id": "chem_179",
+        "names": [
+            "Linoleamidopropyl PG-Dimonium Chloride Phosphate"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Phospholipid complex. Gentle cleansing and conditioning.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_180",
+        "names": [
+            "Stearamide Amp"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 1,
+            "environmental_toxicity": 0
+        },
+        "regulation": "Safe",
+        "description": "Foam booster and viscosity agent.",
+        "category": "Surfactant"
+    },
+    {
+        "id": "chem_181",
+        "names": [
+            "Violet 2",
+            "CI 60725"
+        ],
+        "scores": {
+            "carcinogenicity": 0,
+            "endocrine_disruption": 0,
+            "allergen_potential": 2,
+            "environmental_toxicity": 1
+        },
+        "regulation": "Safe",
+        "description": "Synthetic violet dye. Used in optical brighteners/purple shampoos.",
+        "category": "Colorant"
     }
 ]
